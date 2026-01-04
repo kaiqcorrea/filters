@@ -1,27 +1,26 @@
-# Filtro Unificado Pi-hole - Baseado nas listas do uBlock Origin
+# Filtro Unificado Pi-hole - Versão Limpa (sem YouTube/GitHub)
 # Gerado em: 2026-01-04
-# Total de domínios únicos: 104,663
+# Total de domínios únicos: 104,632
+#
+# Domínios removidos:
+# - YouTube/Google Video: 18
+# - GitHub: 1120
 #
 # Fontes incluídas:
-# - badware.txt: 3,171 domínios
-# - easylist-cookies.txt: 438 domínios
-# - easylist.txt: 50,928 domínios
-# - easyprivacy.txt: 46,706 domínios
-# - fanboy-annoyance.txt: 1,146 domínios
+# - badware.txt: 3,161 domínios
+# - easylist.txt: 50,921 domínios
+# - easyprivacy.txt: 46,700 domínios
+# - fanboy-annoyance.txt: 1,143 domínios
 # - fanboy-cookiemonster.txt: 438 domínios
-# - fanboy-social.txt: 90 domínios
-# - fanboy-thirdparty-social.txt: 90 domínios
-# - filters.txt: 682 domínios
+# - fanboy-social.txt: 88 domínios
+# - filters.txt: 681 domínios
 # - lan-block.txt: 74 domínios
-# - peterloweadservers.txt: 3,495 domínios
-# - privacy.txt: 286 domínios
-# - quick-fixes.txt: 18 domínios
+# - peterloweadservers.txt: 3,494 domínios
+# - privacy.txt: 284 domínios
+# - quick-fixes.txt: 17 domínios
 # - resource-abuse.txt: 13 domínios
-# - unbreak.txt: 561 domínios
-# - urlhaus-filter.txt: 5,499 domínios
-#
-# Compatível com Pi-hole
-# Para usar: cole a URL do raw do seu arquivo GitHub em Pi-hole > Adlists
+# - unbreak.txt: 557 domínios
+# - urlhaus-filter.txt: 4,400 domínios
 #
 
 0.0.0.0 tvtoday.de
@@ -633,7 +632,6 @@
 0.0.0.0 psprices.com
 0.0.0.0 zerozero.pt
 0.0.0.0 fegortius.com
-0.0.0.0 weblion777.github.io
 0.0.0.0 corported.com
 0.0.0.0 kataprius.com
 0.0.0.0 the-race.com
@@ -833,7 +831,6 @@
 0.0.0.0 promos.investing.com
 0.0.0.0 monetization.prod.invmed.co
 0.0.0.0 rakutenadvertising.io
-0.0.0.0 youtube.com
 0.0.0.0 youtu.be
 0.0.0.0 instagram.com
 0.0.0.0 msn.com
@@ -1364,7 +1361,6 @@
 0.0.0.0 yeahmylol.sbs
 0.0.0.0 tostatess.icu
 0.0.0.0 anysoftdownload.com
-0.0.0.0 softdownloadgithub.icu
 0.0.0.0 newgitgerto.xyz
 0.0.0.0 mariads.cfd
 0.0.0.0 gitfrominstall.com
@@ -2768,7 +2764,6 @@
 0.0.0.0 libretubeapk.com
 0.0.0.0 ytvancedpro.com
 0.0.0.0 revancedmusic.com
-0.0.0.0 revancedyoutube.org
 0.0.0.0 revanced-extended.com
 0.0.0.0 extendedrevanced.com
 0.0.0.0 vanced-official.com
@@ -2899,7 +2894,6 @@
 0.0.0.0 pakket-bpost-be.web.app
 0.0.0.0 crpostbelnk.glitch.me
 0.0.0.0 dbs.applerewardsstore.com
-0.0.0.0 pulseapp-24x7-service.github.io
 0.0.0.0 rbchidraulica.com.br
 0.0.0.0 apples-24x7-customer-help-line.pages.dev
 0.0.0.0 apples-24x7-help.pages.dev
@@ -3032,7 +3026,6 @@
 0.0.0.0 mtm.rnz.mybluehost.me
 0.0.0.0 mpinsureit.com
 0.0.0.0 goldsystem.com.br
-0.0.0.0 delivery-globaldhlauth.github.io
 0.0.0.0 myjobdhl.earcu.com
 0.0.0.0 cere.network
 0.0.0.0 play.funfourmob.com
@@ -3283,7 +3276,6 @@
 0.0.0.0 runningapplications-b7dae-default-rtdb.firebaseio.com
 0.0.0.0 magicslimnhatban.com
 0.0.0.0 giamcannhatban.com
-0.0.0.0 github.com
 0.0.0.0 waredot.com
 0.0.0.0 kms-full.com
 0.0.0.0 kmspico.io
@@ -3844,7 +3836,6 @@
 0.0.0.0 zerion.potrfolio.com
 0.0.0.0 v2-solavre.com
 0.0.0.0 onchain-debank.com
-0.0.0.0 app-defituna.github.io
 0.0.0.0 detifuna.net
 0.0.0.0 yupoo-dhgate.ru
 0.0.0.0 yupoo-husky.ru
@@ -3947,8 +3938,6 @@
 0.0.0.0 ledgersso.created.app
 0.0.0.0 ledger-wallet.gitlab.io
 0.0.0.0 sute-trezr.created.app
-0.0.0.0 tronssan.github.io
-0.0.0.0 aomicwallet.github.io
 0.0.0.0 tfjg-rjgu-eeti-zjti-ordg-rfgj.netlify.app
 0.0.0.0 c066b573.smrta.pages.dev
 0.0.0.0 webapp.ghost.io
@@ -4136,7 +4125,6 @@
 0.0.0.0 nascar.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 allporncomic.com
-0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 edgecastcdn.net
 0.0.0.0 twimg.twitter.map.fastly.net
 0.0.0.0 uptobox.com
@@ -4164,7 +4152,6 @@
 0.0.0.0 sedoparking.com
 0.0.0.0 message-fra.sp-prod.net
 0.0.0.0 news12.com
-0.0.0.0 googlevideo.com
 0.0.0.0 science-et-vie.com
 0.0.0.0 circularhub.com
 0.0.0.0 static.wellsfargo.com
@@ -4197,7 +4184,6 @@
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 blogtopsites.com
 0.0.0.0 serieslatinoamerica.tv
-0.0.0.0 ads.youtube.com
 0.0.0.0 revcatch.com
 0.0.0.0 cpmstar.com
 0.0.0.0 appsflyer.com
@@ -14003,7 +13989,6 @@
 0.0.0.0 devcre.site
 0.0.0.0 develelastica.org
 0.0.0.0 developmentgoat.com
-0.0.0.0 devgottia.github.io
 0.0.0.0 deviatesbirro.shop
 0.0.0.0 deview-moryant.icu
 0.0.0.0 devilinquiry.com
@@ -24209,6 +24194,7 @@
 0.0.0.0 katldpsrjggef.space
 0.0.0.0 katseefougrena.net
 0.0.0.0 kaubapsy.com
+0.0.0.0 kaubiwhuchu.net
 0.0.0.0 kaudawwhwjllo.site
 0.0.0.0 kaupsaichaig.net
 0.0.0.0 kaushooptawo.net
@@ -46062,7 +46048,6 @@
 0.0.0.0 youstarsbuilding.com
 0.0.0.0 youthfulpoem.pro
 0.0.0.0 youthlygaveler.com
-0.0.0.0 youtube.local
 0.0.0.0 yowiespopian.com
 0.0.0.0 yowlersburred.cyou
 0.0.0.0 yowlyfgtthpus.online
@@ -48511,6 +48496,7 @@
 0.0.0.0 w9l4tr4013tn5mo27t0w.xyz
 0.0.0.0 whichdespite.com
 0.0.0.0 whoseabacus.com
+0.0.0.0 windowthink.com
 0.0.0.0 withouthuzzah.com
 0.0.0.0 worthequally.com
 0.0.0.0 wqq881m8uwq1k5m-4p7lv7.xyz
@@ -50484,7 +50470,6 @@
 0.0.0.0 go.bloxplay.com
 0.0.0.0 go.onelink.me
 0.0.0.0 googleadapis.l.google.com
-0.0.0.0 googleads.github.io
 0.0.0.0 hb.collectiveaudience.co
 0.0.0.0 hb.yahoo.net
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
@@ -52394,7 +52379,6 @@
 0.0.0.0 figma.com
 0.0.0.0 freecodecamp.org
 0.0.0.0 gemini.google.com
-0.0.0.0 github.io
 0.0.0.0 icloud.com
 0.0.0.0 instapundit.com
 0.0.0.0 instawp.xyz
@@ -52407,7 +52391,6 @@
 0.0.0.0 meet.google.com
 0.0.0.0 morphic.sh
 0.0.0.0 mui.com
-0.0.0.0 music.youtube.com
 0.0.0.0 myaccount.google.com
 0.0.0.0 nebula.tv
 0.0.0.0 netflix.com
@@ -52434,7 +52417,6 @@
 0.0.0.0 tidal.com
 0.0.0.0 tiktok.com
 0.0.0.0 tubitv.com
-0.0.0.0 tv.youtube.com
 0.0.0.0 web.basemark.com
 0.0.0.0 web.telegram.org
 0.0.0.0 webex.com
@@ -52446,7 +52428,6 @@
 0.0.0.0 wikiquote.org
 0.0.0.0 wikiversity.org
 0.0.0.0 wiktionary.org
-0.0.0.0 www.youtube.com
 0.0.0.0 x.com
 0.0.0.0 ps.w.org
 0.0.0.0 fingerprintjs.com
@@ -59250,7 +59231,6 @@
 0.0.0.0 fallback.attntags.com
 0.0.0.0 fallback.emtag.net
 0.0.0.0 fcmatch.google.com
-0.0.0.0 fcmatch.youtube.com
 0.0.0.0 feedblitz.com
 0.0.0.0 fgip.rosehosting.com
 0.0.0.0 filament-stats.herokuapp.com
@@ -61284,8 +61264,6 @@
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.fiverr.com
-0.0.0.0 collector.github.com
-0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.quillbot.com
@@ -61303,7 +61281,6 @@
 0.0.0.0 connect.airfrance.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 convert.guru
-0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 count.all.biz
 0.0.0.0 count.darkreader.app
 0.0.0.0 count.rin.ru
@@ -67055,7 +67032,6 @@
 0.0.0.0 metrics.cathflo.com
 0.0.0.0 metrics.cb2.com
 0.0.0.0 metrics.cbc.ca
-0.0.0.0 metrics.cbc.youtube.mercedes-benz.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.ccma.cat
 0.0.0.0 metrics.cdiscount.com
@@ -70047,7 +70023,6 @@
 0.0.0.0 smetrics.cathflo.com
 0.0.0.0 smetrics.catxpert.dk
 0.0.0.0 smetrics.cbc.ca
-0.0.0.0 smetrics.cbc.youtube.mercedes-benz.com
 0.0.0.0 smetrics.cbn.com
 0.0.0.0 smetrics.ccma.cat
 0.0.0.0 smetrics.cdiscount.com
@@ -99290,7 +99265,6 @@
 0.0.0.0 wurfl.io
 0.0.0.0 yimg.com
 0.0.0.0 yottos.com
-0.0.0.0 ytimg.com
 0.0.0.0 zaparena.com
 0.0.0.0 zeddit.com
 0.0.0.0 zergnet.com
@@ -102483,7 +102457,6 @@
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 o24o.ru
 0.0.0.0 officelilne.oss-cn-hongkong.aliyuncs.com
-0.0.0.0 ofice365.github.io
 0.0.0.0 ojang.pe.kr
 0.0.0.0 old.bullydog.com
 0.0.0.0 old.umcl.us
@@ -102647,7 +102620,6 @@
 0.0.0.0 theoremaoliveoil.com
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tiwanlinm.duckdns.org
-0.0.0.0 tobecation.github.io
 0.0.0.0 toolshare.com.tr
 0.0.0.0 topmedsolution.com
 0.0.0.0 transparenciacanaa.com.br
@@ -102739,7 +102711,6 @@
 0.0.0.0 cdn.pixelbin.io
 0.0.0.0 cfs5.tistory.com
 0.0.0.0 chiptune.com
-0.0.0.0 codeload.github.com
 0.0.0.0 cricfy.net
 0.0.0.0 darkside.cy
 0.0.0.0 dhnconstrucciones.com.ar
@@ -102752,7 +102723,6 @@
 0.0.0.0 files.constantcontact.com
 0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 fromthetrenchesworldreport.com
-0.0.0.0 gist.githubusercontent.com
 0.0.0.0 gitee.com
 0.0.0.0 hcsnet.com.br
 0.0.0.0 hostingcloud.science
@@ -102767,7 +102737,6 @@
 0.0.0.0 la-pan-adventures.com
 0.0.0.0 localtonet.com
 0.0.0.0 mail.cambodiatouristservice.com
-0.0.0.0 media.githubusercontent.com
 0.0.0.0 microsoft-telemetry.at
 0.0.0.0 microsoft-telemetry.cc
 0.0.0.0 modulowinapp.com
